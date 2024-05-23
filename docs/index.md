@@ -6,3 +6,4 @@ _This is to demonstrate linking between pages only. Need to link to correct home
 
 - [Manager](./manager/strategy-positions.md)
 - [Alpha Partner](./alpha-partner/strategy-positions.md)
+- [Investor](./investor/index.md)
