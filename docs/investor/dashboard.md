@@ -44,7 +44,7 @@ The Portfolio section provides detailed information on the products invested int
 
 ![Portfolio](../images/investor-portfolio.png)
 
-# Historical Performance table
+## Historical Performance table
 
 The Historical Performance table provides a comprehensive view of the portfolio’s performance on a monthly and yearly basis. Key functionalities include:
 
@@ -55,3 +55,15 @@ The Historical Performance table provides a comprehensive view of the portfolio�
 This section allows investors to easily track and analyze the historical returns of their portfolios, offering insights into monthly and yearly trends.
 
 ![Historical Performance](../images/investors-historical-performance-table.png)
+
+## Exposure Breakdowns
+
+The Exposure Breakdowns section of the FundBox dashboard provides a detailed analysis of the portfolio's exposure across different asset classes and markets. This section helps investors understand the distribution of their investments and assess the risk associated with their portfolio. Key features of the Exposure Breakdowns section include:
+
+- **Asset Class Distribution**: A visual representation of the portfolio’s allocation across various asset classes such as Commodities, Equities, and Futures.
+- **Breakdown by Name**: A table listing each fund or product in the portfolio, showing the percentage allocation to each asset class.
+- **Interactive Pie Chart**: A pie chart that visually depicts the proportion of the portfolio invested in each asset class, providing a quick and clear understanding of the portfolio's composition.
+- **Toggle Views**: The ability to switch between different views, such as Asset Class and Markets, to gain insights from different perspectives.
+- **Sortable Columns**: Columns in the table can be sorted to quickly identify the largest or smallest exposures in each category.
+
+![Exposure Breakdowns](../images/investor-exposure-breakdowns.png)
