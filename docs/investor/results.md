@@ -26,7 +26,7 @@ The Capital Summary section provides a detailed breakdown of the investment's fi
 
 ![Capital Summary](../images/investor-results-capital-summary.png)
 
-## Product Commentary
+## Commentary
 
 The Product Commentary section offers a list of detailed insights and updates from Alpha Partners.
 
