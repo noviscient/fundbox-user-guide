@@ -36,14 +36,22 @@ The Month-to-Date Profit and Loss (PnL) section provides insights into the portf
 
 The Portfolio section provides detailed information on the products invested into, including:
 
-- *NAV (Net Asset Value)*: The value of the portfolio’s assets minus its liabilities.
-- *1D, 1M, 3M, YTD, 1Y, Since Inception*: Performance metrics over different time frames.
-- *VOL (Volatility)*: The degree of variation of the portfolio's returns over time.
-- *Sharpe Ratio*: A measure of risk-adjusted return.
-- *Max Drawdown*: The maximum observed loss from a peak to a trough.
+- **NAV (Net Asset Value)**: The value of the portfolio’s assets minus its liabilities.
+- **1D, 1M, 3M, YTD, 1Y, Since Inception**: Performance metrics over different time frames.
+- **VOL (Volatility)**: The degree of variation of the portfolio's returns over time.
+- **Sharpe Ratio**: A measure of risk-adjusted return.
+- **Max Drawdown**: The maximum observed loss from a peak to a trough.
 
 ![Portfolio](../images/investor-portfolio.png)
 
 # Historical Performance table
 
-The Historical Performance table provides a detailed breakdown of the portfolio’s performance over time, including:
+The Historical Performance table provides a comprehensive view of the portfolio’s performance on a monthly and yearly basis. Key functionalities include:
+
+- **Monthly Performance**: Displays the historical performance of the portfolio for each month.
+- **Yearly Performance**: Summarizes the total performance for each year.
+- **Toggle Returns**: Users can toggle between viewing returns in dollars ($) and percentages (%).
+
+This section allows investors to easily track and analyze the historical returns of their portfolios, offering insights into monthly and yearly trends.
+
+![Historical Performance](../images/investors-historical-performance-table.png)
