@@ -16,7 +16,7 @@ These tabs collectively give a thorough overview of the selected product, aiding
 
 Displays key performance indicators and risk metrics for the fund, such as net asset value, returns, and volatility.
 
-![Fund Level Risk Metrics](../images/managers-fund-level-risk-metrics.png)(../images/managers-dashboard-fund-level-risks.png)
+![Fund Level Risk Metrics](../images/managers-fund-level-risks.png)(../images/managers-dashboard-fund-level-risks.png)
 
 ### Net Daily & Cumulative PnL chart
 
