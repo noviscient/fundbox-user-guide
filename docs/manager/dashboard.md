@@ -35,3 +35,45 @@ Shows a table of the fund's monthly performance over several years, allowing for
 Provides annualized statistics, including various return rates, performance metrics over different time frames, and measures of volatility, drawdown, and ratios that assess risk-adjusted performance.
 
 ![Return and Risk Statistics](../images/managers-dashboard-return-risks-table.png)
+
+## Strategies
+
+### Gross Cumulative PnL chart
+
+Displays the gross cumulative profit and loss over time for the product's strategies, allowing for a comparison of performance between different strategies.
+
+![Gross Cumulative PnL chart](../images/managers-strategies-cum-pnl-chart.png)
+
+### Summary of Strategies
+
+Provides a summary of the product's strategies, including their Day, Month, Year and Lifetime performance, as well as the fees and expenses associated with each strategy.
+
+![Strategies Summary table](../images/managers-strategies-summary-table.png)
+
+## Risk
+
+### Strategy Level Risk table
+
+Shows the risk metrics for each strategy, including factor exposure, volatility, drawdown, and other risk-adjusted performance measures.
+
+![Strategies Level Risk table](../images/managers-risk-strategies-table.png)
+
+### Factor Exposure chart
+
+Displays the factor exposure of the product's strategies, allowing for a visual representation of the risk factors influencing the product's performance.
+
+![Factor Exposures](../images/managers-strategies-factors.png)
+
+### Daily Drowdown chart
+
+Displays the daily drawdown of the product, showing the historical losses experienced by the product over time.
+
+![Daily Drawdown](../images/managers-strategies-drawdown-chart.png)
+
+## Capital
+
+To be added
+
+## Files
+
+To be added
