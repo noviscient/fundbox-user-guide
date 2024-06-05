@@ -36,6 +36,14 @@ The Full Strategy Profile offers detailed information on each strategy, includin
 
 ![Full Strategy Profile](../images/managers-strategies-full-profile.png)
 
+### Positions tab
+
+{!docs/templates/strategy-positions.md!}
+
+### Capital tab
+
+{!docs/templates/strategy-capital.md!}
+
 ## Side-by-Side Comparison
 
 The Side-by-Side Comparison feature allows managers to compare multiple strategies directly, facilitating a detailed analysis of each strategy's performance metrics, asset classes, AUM, and other key factors. This tool enables managers to evaluate and contrast different strategies efficiently.
