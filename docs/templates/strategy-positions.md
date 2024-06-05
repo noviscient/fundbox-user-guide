@@ -2,8 +2,6 @@ The Positions feature allows users to confirm the correctness of their strategy'
 
 This feature provides detailed information on each position, including the asset name, quantity held, current market value, and performance metrics such as percentage change and unrealized gains or losses. The content on the "Positions" tab will indicate the product in which the strategy is included.
 
-![Strategy Positions](../images/manager-strategy-positions.png)
-
 The detailed information available for each position includes:
 
 - **BB Yellow Key**: The Bloomberg Yellow Key identifier for the asset.
