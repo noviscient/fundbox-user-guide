@@ -32,6 +32,8 @@ The Performance Preview section provides a quick snapshot of each strategy's per
 
 ## Full Strategy Profile
 
+The usage of the period button can be found [here](../miscellaneous/common-widgets.md#period-picker).
+
 The Full Strategy Profile offers detailed information on each strategy, including performance metrics, AUM, asset class, market coverage, and historical performance. For strategies that are live trading, this page also provides a view of positions and capital allocated. This comprehensive profile provides a deeper understanding of the strategy's characteristics and past performance.
 
 ![Full Strategy Profile](../images/managers-strategies-full-profile.png)
@@ -53,3 +55,4 @@ The Side-by-Side Comparison feature allows managers to compare multiple strategi
 ## Download Factsheet
 
 To be added
+
