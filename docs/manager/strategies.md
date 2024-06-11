@@ -32,11 +32,13 @@ The Performance Preview section provides a quick snapshot of each strategy's per
 
 ## Full Strategy Profile
 
-The usage of the period button can be found [here](../miscellaneous/common-widgets.md#period-picker).
-
 The Full Strategy Profile offers detailed information on each strategy, including performance metrics, AUM, asset class, market coverage, and historical performance. For strategies that are live trading, this page also provides a view of positions and capital allocated. This comprehensive profile provides a deeper understanding of the strategy's characteristics and past performance.
 
 ![Full Strategy Profile](../images/managers-strategies-full-profile.png)
+
+### Performance Chart
+
+The performance chart merges live and track-record cumulative returns for the strategy. It features a date range selector that enables users to either pick a predefined period or specify a custom date range. The usage of the period button can be found [here](../miscellaneous/common-widgets.md#period-picker).
 
 ### Positions tab
 
@@ -45,6 +47,20 @@ The Full Strategy Profile offers detailed information on each strategy, includin
 ### Capital tab
 
 {!docs/templates/strategy-capital.md!}
+
+### Return Attribution
+
+- **Model Basis**: The return attribution utilizes the [Fama French factor model](https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html) (basic 3 factor model + momentum), with the factor components combined into a single representation for simplicity.
+
+- **Data Source**: The calculation is based on the **last 12-month track-record** returns.
+
+- **Data Requirements**: The strategy must have at least **3-month track-record** returns to be eligible for calculation.
+
+### Performance and Risk Metrics
+
+- **Data Source**: The calculation is based on the **track-record** returns.
+
+- **Period Definition**: The periods in the table are defined in the same way as in the [period picker](../miscellaneous/common-widgets.md#period-picker).
 
 ## Side-by-Side Comparison
 
@@ -55,4 +71,3 @@ The Side-by-Side Comparison feature allows managers to compare multiple strategi
 ## Download Factsheet
 
 To be added
-
