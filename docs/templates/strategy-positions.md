@@ -1,6 +1,4 @@
-## Description
-
-The Current Positions feature allows users to confirm the correctness of their strategy's open positions on an EOD basis.
+The Positions feature allows users to confirm the correctness of their strategy's open positions on an EOD basis.
 
 This feature provides detailed information on each position, including the asset name, quantity held, current market value, and performance metrics such as percentage change and unrealized gains or losses. The content on the "Positions" tab will indicate the product in which the strategy is included.
 
