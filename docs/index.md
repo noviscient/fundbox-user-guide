@@ -2,8 +2,12 @@
 
 Fundbox portal offers different set of functionalities for different roles:
 
-_This is to demonstrate linking between pages only. Need to link to correct home page for each role._
-
-- [Manager](./manager/strategy-positions.md)
-- [Alpha Partner](./alpha-partner/strategy-positions.md)
+- [Manager](./manager/index.md)
+- [Alpha Partner](./alpha-partner/index.md)
 - [Investor](./investor/index.md)
+
+## Demo Fundbox
+
+The demo version of Fundbox (Demo Fundbox) is available to try at this [location](https://demo.fundbox.ai/demo-login/).
+
+![Demo Fundbox Login Page](../images/demo-fundbox-login-page.png)

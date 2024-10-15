@@ -18,8 +18,6 @@ The Performance chart displays the historical performance of the strategy, inclu
 
 ## Capital tab
 
-
-
 {!docs/templates/strategy-capital.md!}
 
 # Add New Strategy
