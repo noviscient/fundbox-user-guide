@@ -10,4 +10,4 @@ Fundbox portal offers different set of functionalities for different roles:
 
 The demo version of Fundbox (Demo Fundbox) is available to try at this [location](https://demo.fundbox.ai/demo-login/).
 
-![Demo Fundbox Login Page](../images/demo-fundbox-login-page.png)
+![Demo Fundbox Login Page](./images/demo-fundbox-login-page.png)
